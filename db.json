@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Ashik Mahmud",
+      "email": "ashik@email.com",
+      "password": "abc123"
+    },
+    {
+      "id": 2,
+      "name": "mark",
+      "email": "mark@email.com",
+      "password": "abc123"
+    },
+    {
+      "id": 3,
+      "name": "Ruhul",
+      "email": "ruhul@email.com",
+      "password": "abc123"
+    },
+    {
+      "name": "Najmul",
+      "email": "najmul@email.com",
+      "password": "najmul123",
+      "id": 4
+    },
+    {
+      "name": "tony",
+      "email": "tony@email.com",
+      "password": "tony123",
+      "id": 5
+    },
+    {
+      "name": "siam",
+      "email": "siam@test.com",
+      "password": "siam123",
+      "id": 6
+    },
+    {
+      "name": "anik",
+      "email": "anik@test.com",
+      "password": "anik123",
+      "id": 7
+    },
+    {
+      "name": "zahin",
+      "email": "zahin@test.com",
+      "password": "zahin123",
+      "id": 8
+    }
+  ]
+}
